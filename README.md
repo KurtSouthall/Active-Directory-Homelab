@@ -55,3 +55,23 @@ Successfully joined Windows clients to the Active Directory domain.
 ## Lessons Learned
 
 This project strengthened my understanding of Active Directory, DNS configuration, PowerShell administration, and Windows Server management.
+## Automated User Provisioning
+
+Created a PowerShell script that imports user information from a CSV file and automatically creates Active Directory user accounts.
+
+### Technologies Used
+
+- Windows Server 2022
+- Active Directory
+- PowerShell
+- CSV Data Import
+
+### Results
+
+Successfully created multiple Active Directory user accounts automatically instead of manually creating each account.
+
+Users Created:
+- Mason M
+- April S
+- Ashley S
+- Rebecca M
