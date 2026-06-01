@@ -76,11 +76,14 @@ Created a shared HR folder, assigned permissions to the HR security group, and m
 
 <img width="896" height="667" alt="image" src="https://github.com/user-attachments/assets/41c66188-4891-4050-8a98-02095923b7c9" />
 
+<img width="867" height="647" alt="image" src="https://github.com/user-attachments/assets/8f25ecb0-b06c-4949-8c95-6487d224f1b6" />
 
 
 ### Domain Join
 
 Successfully joined Windows clients to the Active Directory domain.
+
+
 
 ## Lessons Learned
 
