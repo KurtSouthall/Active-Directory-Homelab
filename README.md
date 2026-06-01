@@ -55,6 +55,11 @@ Used PowerShell to:
 <img width="908" height="610" alt="image" src="https://github.com/user-attachments/assets/c4b8186b-de4d-4285-8e90-207b4ea1e410" />
 <img width="858" height="632" alt="image" src="https://github.com/user-attachments/assets/9d998664-bcfc-40ab-b784-c26545e64d1b" />
 
+### Security Groups
+
+Created security groups and assigned users to appropriate departments.
+
+- HR-Users
 
 
 
