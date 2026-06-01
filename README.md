@@ -66,11 +66,17 @@ Created security groups and assigned users to appropriate departments.
 
 Created department shares and assigned NTFS and Share permissions using Active Directory security groups.
 
-[Advanced Sharing Screenshot]
+<img width="941" height="719" alt="image" src="https://github.com/user-attachments/assets/297c0c36-4ec9-4718-93af-6a1a9e263e78" />
 
 <img width="932" height="719" alt="image" src="https://github.com/user-attachments/assets/38456b2f-a2a3-41a7-bc22-22f22de49564" />
 
+### Network Drive Mapping
 
+Created a shared HR folder, assigned permissions to the HR security group, and mapped the share as a network drive for authorized users.
+
+[Mapped Drive Screenshot]
+
+[Mapped H Drive Screenshot]
 
 ### Domain Join
 
