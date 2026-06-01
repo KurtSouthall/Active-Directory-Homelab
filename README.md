@@ -83,6 +83,8 @@ Created a shared HR folder, assigned permissions to the HR security group, and m
 
 Successfully joined Windows clients to the Active Directory domain.
 
+<img width="507" height="542" alt="image" src="https://github.com/user-attachments/assets/92f0e0e2-48ed-4939-a430-f197d2a04599" />
+
 
 
 ## Lessons Learned
