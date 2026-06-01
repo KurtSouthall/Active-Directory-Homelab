@@ -74,9 +74,9 @@ Created department shares and assigned NTFS and Share permissions using Active D
 
 Created a shared HR folder, assigned permissions to the HR security group, and mapped the share as a network drive for authorized users.
 
-[Mapped Drive Screenshot]
+<img width="896" height="667" alt="image" src="https://github.com/user-attachments/assets/41c66188-4891-4050-8a98-02095923b7c9" />
 
-[Mapped H Drive Screenshot]
+
 
 ### Domain Join
 
