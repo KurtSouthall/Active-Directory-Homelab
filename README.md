@@ -60,7 +60,15 @@ Used PowerShell to:
 Created security groups and assigned users to appropriate departments.
 
 - HR-Users
+<img width="832" height="537" alt="image" src="https://github.com/user-attachments/assets/d8a66721-2bb0-4685-8c69-2f489de49eaf" />
 
+### Shared Folder Permissions
+
+Created department shares and assigned NTFS and Share permissions using Active Directory security groups.
+
+[Advanced Sharing Screenshot]
+
+[Permissions Screenshot]
 
 
 ### Domain Join
