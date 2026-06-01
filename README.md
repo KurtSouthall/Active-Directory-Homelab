@@ -41,6 +41,7 @@ Created and managed Organizational Units including:
 - Users
 <img width="919" height="601" alt="image" src="https://github.com/user-attachments/assets/c699272e-03fa-4902-8f66-8e155f0a3e94" />
 <img width="1040" height="552" alt="image" src="https://github.com/user-attachments/assets/e0518af4-6230-4a92-92be-34c2a96a3308" />
+<img width="1124" height="762" alt="image" src="https://github.com/user-attachments/assets/5991aa2b-5841-4d3a-bcd1-be10b98c7497" />
 
 
 
