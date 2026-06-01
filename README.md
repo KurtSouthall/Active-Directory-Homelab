@@ -39,6 +39,9 @@ Created and managed Organizational Units including:
 
 - Sales
 - Users
+<img width="919" height="601" alt="image" src="https://github.com/user-attachments/assets/c699272e-03fa-4902-8f66-8e155f0a3e94" />
+
+
 
 ### PowerShell Administration
 
