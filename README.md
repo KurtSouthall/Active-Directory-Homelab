@@ -68,7 +68,8 @@ Created department shares and assigned NTFS and Share permissions using Active D
 
 [Advanced Sharing Screenshot]
 
-[Permissions Screenshot]
+<img width="932" height="719" alt="image" src="https://github.com/user-attachments/assets/38456b2f-a2a3-41a7-bc22-22f22de49564" />
+
 
 
 ### Domain Join
