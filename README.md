@@ -51,6 +51,8 @@ Used PowerShell to:
 - Create Organizational Units
 - Automate Active Directory tasks
 - Manage users
+<img width="908" height="610" alt="image" src="https://github.com/user-attachments/assets/c4b8186b-de4d-4285-8e90-207b4ea1e410" />
+
 
 
 
